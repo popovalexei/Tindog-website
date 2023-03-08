@@ -1,4 +1,4 @@
-# Tindog---website-app.
+# Tindog - website-app.
 
 Tindog is a mockup website/app that I developed for practice and CV purposes. It is designed for dog owners to find new and interesting dogs around them, based on the popular dating app, Tinder.
 
