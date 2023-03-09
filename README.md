@@ -8,7 +8,7 @@ The website was built using HTML5, CSS3, Bootstrap, and the Grid System.
 
 Site Features:
 
-The site is responsive on laptops, tablets, and smartphones. It features a clean and modern design with bright colors, images of dogs, and playful animations. Users can navigate through the site to learn more about Tindog and its features, view pictures of dogs, pricing plans and sign up for the service. 
+The site is responsive on laptops, tablets, and smartphones. It features a clean and modern design with bright colors and images of dogs. Users can navigate through the site to learn more about Tindog and its features, view pictures of dogs, pricing plans and sign up for the service. 
 
 Access the Site:
 
